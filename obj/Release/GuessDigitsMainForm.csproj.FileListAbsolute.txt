@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\bin\Release\GuessDigitsMainForm.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\bin\Release\GuessDigitsMainForm.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\bin\Release\GuessDigitsMainForm.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.GuessDigitsMainForm.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeworkGuessDigits0622\GuessDigitsMainForm\obj\Release\GuessDigitsMainForm.pdb
